@@ -1,6 +1,6 @@
 using System;
 
-namespace mid
+namespace mdsumon
 {
     class Program
     {
